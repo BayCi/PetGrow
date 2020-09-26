@@ -2,7 +2,7 @@
 layout: '[layout]'
 title: 采用Object-C语言编写的一个儿童习惯养成类demo
 date: 2020-8-24 11:06:25
-tags:UI,MVC框架
+tags:
 
 ---
 # 项目名称：DeepMind
